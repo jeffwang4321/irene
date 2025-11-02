@@ -28,6 +28,11 @@ body{
     display: none;
 }
 
+#page5 ul{
+    margin-left: 20px;
+}
+
+
 
 /* Front page password */
 .bxs-lock-alt{
