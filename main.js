@@ -60,6 +60,6 @@ function unlock4(){
     document.getElementById('page4').style.display = 'none';
     document.getElementById('page5').style.display = 'block';
   }else{
-    alert('HELLO, I am Smart, Funny, Cool and NOT ANNOYING 😠');
+    alert('Hello, I wont be annoying I promise 🥺');
   }
 }
