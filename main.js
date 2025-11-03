@@ -24,7 +24,7 @@ function unlock1(){
     document.getElementById('page1').style.display = 'none';
     document.getElementById('page2').style.display = 'block';
   }else{
-    alert('The place closed down 😢');
+    alert('The place since closed down 😢');
   }
 }
 
@@ -47,7 +47,7 @@ function unlock3(){
     document.getElementById('page3').style.display = 'none';
     document.getElementById('page4').style.display = 'block';
   }else{
-    alert('They are all the right answer 💕');
+    alert('They are all the right answer! 💕');
   }
 }
 
@@ -60,6 +60,6 @@ function unlock4(){
     document.getElementById('page4').style.display = 'none';
     document.getElementById('page5').style.display = 'block';
   }else{
-    alert('Hello, I wont be annoying I promise 🥺');
+    alert('I wont be annoying I promise 🥺');
   }
 }
